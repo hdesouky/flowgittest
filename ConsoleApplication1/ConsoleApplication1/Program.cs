@@ -18,6 +18,8 @@ namespace ConsoleApplication1
 
 
             Console.WriteLine("Ayman work 2");
+            Console.WriteLine("Islam work");
+
         }
     }
 }
