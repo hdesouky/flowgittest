@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Feature 1");
+            Console.WriteLine("Release 1");
         }
     }
 }
