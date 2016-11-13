@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Feature 1");
             Console.WriteLine("Release 1");
+            Console.WriteLine("Hotfix 1");
         }
     }
 }
